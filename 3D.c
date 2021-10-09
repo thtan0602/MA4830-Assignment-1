@@ -5,6 +5,7 @@
 
 #define pi 3.14159265359
 
+// properties
 struct ThreeDimensionalObj{ 
     char *shape;
     float radius;
